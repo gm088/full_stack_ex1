@@ -1,0 +1,44 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": false
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": false
+    },
+    {
+      "id": "1e8e",
+      "content": "Here is a new note!",
+      "important": true
+    },
+    {
+      "id": "f6ff"
+    },
+    {
+      "id": "4765",
+      "content": "What???",
+      "important": false
+    }
+  ],
+  "persons": [
+    {
+      "id": "063f",
+      "name": "Ada Lovelace",
+      "number": "345345345"
+    },
+    {
+      "id": "00f9",
+      "name": "Gaurav Mandana",
+      "number": "12312312312"
+    }
+  ]
+}
