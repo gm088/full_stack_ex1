@@ -1,9 +1,9 @@
 import axios from 'axios'
-const baseURL = 'http://localhost:3001/notes'
+const baseURL = 'http://localhost:3002/api/notes'
 
 const getAllNotes = () => {
 
-  //functional programming!
+  //functional programming
   const request = axios.get(baseURL)
   return(request.then( response => response.data ))
 }
